@@ -28,11 +28,19 @@
 - mongoDB
 - bootstramp
 
+## 🔥 The Project
+<p>
+    It is a project of a list of contacts in which you can register and log in, also register contacts with the name, surname, phone or number, either create contacts, update or delete, with error messages to help in the experience, with all information stored in the database.
+</p>
+
 # Description
 I developed this application in the javascript course of **Luiz Otávio Miranda** from Udemy.
-This application was developed in javascript, ejs, express, MongoDB (atlas). I built the following pages within this application: login and signature, homepage of contacts, 404, logged in, there are a total of five pages, some using protected routes using middleware with Express session for authentication. MongoDB atlas (mongoose) handles all application data.
+
+This application was developed in javascript, ejs, express, MongoDB (atlas). I built the following pages within this application: login and signature, homepage of contacts, 404, logged in and register contacts, there are a total of six pages, some using protected routes using middleware with Express session for authentication. MongoDB atlas (mongoose) handles all application data.
 
 I used ejs to compose the front-end of the application, to facilitate the integration of javascript with HTML. The style is all controlled by the bootstramp classes. Error and success messages throughout the application were used through Connect-flash, which facilitated how messages were recorded and deleted after being displayed to the user. I also used bcryptjs to encrypt the user's password and the validator to validate the fields that were filled in by the user.
+
+
 
 # Executing the Project
 
