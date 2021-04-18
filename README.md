@@ -39,7 +39,7 @@ I used ejs to compose the front-end of the application, to facilitate the integr
 #### Cloning the project
 
 ```javascript
-    $ git clone https://github.com/zV1N1/example-vue-shop.git
+    $ git clone https://github.com/zV1N1/project-agenda.git
 
     # Go into the repository
     $ cd agenda
@@ -56,7 +56,7 @@ I used ejs to compose the front-end of the application, to facilitate the integr
 Create an .env file in the root project and add the link to your mongodb atlas bank: 
 CONNECTIONSTRING=YOUR_ACONNECTIONSTRING_HERE
 
-```sh
+```bash
     # Run the app
     $ npm start
 ```
